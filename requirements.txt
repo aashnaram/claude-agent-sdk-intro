@@ -1,0 +1,4 @@
+Flask
+ClaudeSDK
+SQLAlchemy
+python-dotenv
